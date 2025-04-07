@@ -1,1 +1,2 @@
-# streetkush-server
+# StreetKush RP
+Servidor de SA-MP / OpenMP Roleplay gratuito.
